@@ -4,7 +4,10 @@
 
 ## Iniciando:
 
-Basta clicar no link e começar a jogar!
+  - Link do site:
+https://jogo-do-numero-secreto-snowy.vercel.app/
+
+Para jogar basta inserir o número no campo em branco e clicar em chute, se acertar, clique em novo jogo e continue jogando!
 ![image](https://github.com/CauaSiCa29/Jogo_do_numero_secreto/assets/105356310/d126763e-b574-4520-bab5-4f209b7e073f)
 
 
