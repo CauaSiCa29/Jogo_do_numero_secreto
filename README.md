@@ -1,10 +1,10 @@
 # Jogo do numero secreto
 
-## Projeto feito durante o curso de Logica de programação da Alura.
+- Esse é um projeto feito durante o curso de Logica de programação da Alura.
 
 ## Iniciando:
 
-  - Link do site:
+- Link do site:
 https://jogo-do-numero-secreto-snowy.vercel.app/
 
 Para jogar basta inserir o número no campo em branco e clicar em chute, se acertar, clique em novo jogo e continue jogando!
